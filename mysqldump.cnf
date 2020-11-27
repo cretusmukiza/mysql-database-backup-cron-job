@@ -1,0 +1,3 @@
+[mysqldump]
+user=user
+password=password
